@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 pillow = "*"
+celery = "*"
+flower = "*"
 
 [requires]
 python_version = "3.8"
